@@ -7,3 +7,6 @@
 - restore
 - branch
 - switch
+
+## Git 병합방법 (3가지 방식)
+- Fast Forward
