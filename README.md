@@ -7,3 +7,6 @@
 - restore
 - branch
 - switch
+
+## git 병합방법 
+- 3way
