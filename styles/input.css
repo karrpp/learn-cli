@@ -1,2 +1,7 @@
-body { color: #333; }
-바디에 전경색상 지정
+body {
+  color: #333;
+  background: yellow;
+}
+.class-name {
+  color: red;
+}
